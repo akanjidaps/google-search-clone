@@ -54,21 +54,21 @@ nav {
 
 .fa-magnifying-glass {
     position: absolute;
-    right: 64rem;
+    right: 61rem;
     top: 18px;
     color: rgba(0, 0, 0, 0.17);
 }
 
 #google-voice-icon {
     position: absolute;
-    right: 33rem;
+    right: 31rem;
     height: 30px;
     top: 10px;
 }
 
 #google-image-icon {
     position: absolute;
-    right: 30rem;
+    right: 28rem;
     height: 30px;
     top: 10px;
 }
@@ -188,31 +188,32 @@ footer p {
     #google-search {
         width: 70%;
         height: 30px;
-        font-size: 7px;
+        font-size: 9px;
         padding: 0 30px;
     }
 
     .fa-magnifying-glass {
-        right: 21.2rem;
+        right: 18.7rem;
         top: 11px;
     }
 
     #google-voice-icon{
-        height: 20px;
-        right: 6rem;
-        top: 5px;
+        height: 16px;
+        right: 5.5rem;
+        top: 6px;
     }
 
     #google-image-icon {
-        height: 20px;
-        right: 4.5rem;
-        top: 5px;
+        height: 16px;
+        right: 4rem;
+        top: 6px;
     }
 
     button {
         margin: 0.25rem;
         padding: 0.5rem;
-        font-size: 7px;
+        font-size: 9px;
+        margin-bottom: 1rem;
     }
 
     .center > div {
@@ -220,7 +221,7 @@ footer p {
     }    
 
     .languages {
-        font-size: 7px;
+        font-size: 9px;
         margin: 4px;
     }
 
@@ -240,7 +241,7 @@ footer p {
     #footer {
         display: grid;
         grid-template: auto auto / auto;
-        padding: 8px 40px;
+        padding: 8px 30px;
         row-gap: 0.5rem;
     }
 
