@@ -54,21 +54,21 @@ nav {
 
 .fa-magnifying-glass {
     position: absolute;
-    right: 61rem;
+    right: 57rem;
     top: 18px;
     color: rgba(0, 0, 0, 0.17);
 }
 
 #google-voice-icon {
     position: absolute;
-    right: 31rem;
+    right: 30rem;
     height: 30px;
     top: 10px;
 }
 
 #google-image-icon {
     position: absolute;
-    right: 28rem;
+    right: 27rem;
     height: 30px;
     top: 10px;
 }
@@ -193,7 +193,7 @@ footer p {
     }
 
     .fa-magnifying-glass {
-        right: 18.7rem;
+        right: 19rem;
         top: 11px;
     }
 
