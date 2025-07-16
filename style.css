@@ -39,7 +39,7 @@ nav {
 
 .search > div {
     position: relative;
-    width: 40%;
+    width: 50%;
 }
 
 #google-logo {
@@ -191,10 +191,49 @@ footer p {
     }
 
     #google-search {
-        width: 70%;
+        width: 100%;
         height: 30px;
         font-size: 9px;
         padding: 0 30px;
+    }
+
+    /* .fa-magnifying-glass {
+        right: 19rem;
+        top: 11px;
+    }
+
+    #google-voice-icon{
+        height: 16px;
+        right: 5.5rem;
+        top: 6px;
+    }
+
+    #google-image-icon {
+        height: 16px;
+        right: 4rem;
+        top: 6px;
+    } */
+
+    /* .search-icons {
+        height: 16px;
+    } */
+
+    .search > div {
+        width: 70%;
+    }
+
+    .fa-magnifying-glass {
+        font-size: 10px;
+        height: 10px;
+        left: 0.5rem;
+    }
+
+    .search-icons {
+        right: 0.5rem;
+    }
+
+    #google-voice-icon, #google-image-icon {
+        height: 16px;
     }
 
     button {
